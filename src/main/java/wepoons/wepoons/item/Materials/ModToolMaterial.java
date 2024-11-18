@@ -1,7 +1,8 @@
-package wepoons.wepoons.item;
+package wepoons.wepoons.item.Materials;
 
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
+import wepoons.wepoons.item.ModItems;
 
 import java.util.function.Supplier;
 
